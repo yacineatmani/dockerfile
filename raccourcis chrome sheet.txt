@@ -1,0 +1,263 @@
+Accueil » Dossiers » Google Chrome » + de 150 raccourcis-clavier Google Chrome (surfez comme un pro !)
+Tous les raccourcis-clavier de ChromePublié le 02/09/2019
+Portrait Olivier Duffez
+Olivier Duffez
+
+Créateur de WebRankInfo,
+consultant en référencement
+
+   
++ de 150 raccourcis-clavier Google Chrome (surfez comme un pro !)
+Voici la liste complète des raccourcis clavier de Google Chrome, le navigateur web de Google lancé en 2008, désormais le plus utilisé dans le monde (devant Internet Explorer/Edge, Firefox, Safari, etc.).
+
+Liste mise à jour et vérifiée le 02/10/2021
+
+Sommaire :
+les + utiles
+Windows/Linux
+Mac
+Si vous ne connaissez pas Chrome, consultez cette fiche et vous verrez qu'il est très efficace !
+
+Liste rapide des principaux "shortcuts" de Chrome
+Voici les raccourcis-clavier Chrome les plus utiles :
+
+Ctrl+A : tout sélectionner sur la page courante (y compris les images)
+Ctrl+Maj+B : afficher (ou masquer) la barre de favoris
+Ctrl+C : copier
+Ctrl+D : ajouter la page dans les favoris
+Ctrl+E ou Ctrl+K : positionner le curseur sur la barre d'adresses pour effectuer une recherche sur le moteur par défaut (un point d'interrogation s'affiche)
+Ctrl+F : rechercher dans la page
+Ctrl+G ou F3 : cherche la prochaine occurrence trouvée dans la page (suite à une recherche par Ctrl+F)
+Ctrl+Maj+G ou Maj+F3 : cherche l'occurrence précédente trouvée dans la page (suite à une recherche par Ctrl+F)
+Ctrl+H : afficher l'historique de navigation (dans un nouvel onglet)
+Ctrl+J : afficher l'historique des téléchargements (dans un nouvel onglet)
+Voir aussi : comment supprimer le cache Chrome
+
+Les autres :
+
+Ctrl+L ou F6 : positionner le curseur sur l'omnibox (barre d'adresse)
+Ctrl+N : ouvrir une nouvelle fenêtre du navigateur
+Ctrl+Maj+N : ouvrir une nouvelle fenêtre du navigateur en mode de navigation privée (mode incognito)
+Ctrl+O : ouvrir un fichier local sur l'ordinateur
+Ctrl+P : imprimer la page courante
+Ctrl+R ou F5 : rafraichir la fenêtre courante
+Ctrl+F5 ou Maj+F5 : rafraichir la fenêtre courante en ignorant la version en cache
+Ctrl+T : ouvrir un nouvel onglet (vierge)
+Ctrl+Maj+T : ouvrir un onglet fermé par erreur (Chrome mémorise les 10 derniers onglets fermés)
+Ctrl+U : afficher le code source de la page
+Ctrl+V : coller
+Ctrl+Maj+V : coller sans mise en forme
+Ctrl+W ou Ctrl+F4 : fermer l'onglet courant (ferme Chrome entièrement s'il n'y avait qu'un seul onglet)
+Ctrl+X : couper
+Ctrl++ : augmenter la taille de la police
+Ctrl+– : diminuer la taille de la police
+Ctrl+0 : rétablir la taille de police standard
+Ctrl+1 : afficher le 1er onglet
+Ctrl+2 : afficher le 2ème onglet
+Ctrl+{N} : afficher l'onglet numéro {N}, pour N compris entre 1 et 9
+Ctrl+TAB : basculer entre les onglets ouverts
+Ctrl+clic sur un lien : ouvrir le lien dans un nouvel onglet
+Maj+clic sur un lien : ouvrir le lien dans une nouvelle fenêtre
+ALT+clic sur un lien : télécharger le document de destination du lien
+ALT+Entrée : ouvrir dans un nouvel onglet une URL saisie dans l'omnibox
+Maj+Esc : afficher le gestionnaire de taches de Chrome
+Voir aussi : comment mettre à jour son navigateur Chrome
+
+Les glisser-déposer possibles :
+un onglet peut être sorti de la fenêtre courante du navigateur pour avoir sa propre fenêtre ; on peut le ramener vers une fenêtre de la même façon
+un fichier récemment téléchargé (qui s'affiche en bas de Chrome) peut être déplacé directement vers un dossier précis de l'ordinateur
+un lien vers la barre de favoris pour l'ajouter aux favoris
+un lien vers un onglet pour l'ouvrir dans cet onglet (ou entre 2 onglets pour l'ouvrir dans un nouvel onglet)
+Note : Ctrl représente la touche Ctrl en bas à gauche sur les claviers, Maj représente la touche Maj (majuscule) située au-dessus de la touche Ctrl.
+
+Souhaitez-vous tester ce navigateur Internet ?
+Par ici pour télécharger Chrome
+Si vous connaissez un autre raccourci clavier pour Google Chrome, ou une astuce, n'hésitez pas à l'indiquer en commentaire, je mettrai à jour mon article. Merci d'avance !
+
+Voir aussi : comment supprimer l'historique Chrome
+
+On discute également des raccourcis clavier de Google Chrome dans le forum WebRankInfo.
+
+Tous les raccourcis-clavier de Chrome
+Si vous cherchez un raccourci-clavier Chrome, vous le trouverez dans cette liste !
+Voir aussi : contrôler YouTube avec le clavier !
+
+Encore plus de raccourcis :
+
+Raccourcis-clavier Chrome sous Windows et Linux
+Raccourcis liés aux onglets et aux fenêtres (Windows, Linux)
+Action	Raccourci
+Ouvrir une nouvelle fenêtre	Ctrl+N
+Ouvrir une nouvelle fenêtre en mode navigation privée	Ctrl+Maj+N
+Ouvrir un nouvel onglet, puis y accéder	Ctrl+T
+Rouvrir le dernier onglet fermé, puis y accéder	Ctrl+Maj+T
+Accéder à l'onglet ouvert suivant	Ctrl+Tabulation ou Ctrl+Page suivante
+Accéder à l'onglet ouvert précédent	Ctrl+Maj+Tabulation ou Ctrl+Page précédente
+Accéder à un onglet spécifique	Ctrl+1 jusqu'à Ctrl+8
+Accéder au dernier onglet	Ctrl+9
+Ouvrir la page d'accueil dans l'onglet actif	Alt+Début
+Ouvrir la page précédente de l'historique de navigation dans l'onglet actif	Alt+Flèche gauche
+Ouvrir la page suivante de l'historique de navigation dans l'onglet actif	Alt+Flèche droite
+Fermer l'onglet actif	Ctrl+W ou Ctrl+F4
+Fermer tous les onglets actifs et le navigateur	Ctrl+Maj+W
+Réduire la fenêtre active	Alt+Espace+N
+Agrandir la fenêtre active	Alt+Espace+X
+Quitter Google Chrome	Ctrl+Maj+Q ou Alt+F4
+Raccourcis liés aux fonctionnalités du navigateur Chrome (Windows, Linux)
+Action	Raccourci
+Ouvrir le menu Menu	Alt+F ou Alt+E ou F10
+Afficher ou masquer la barre de favoris	Ctrl+Maj+B
+Ouvrir le gestionnaire de favoris	Ctrl+Maj+O
+Ouvrir la page "Historique" dans un nouvel onglet	Ctrl+H
+Ouvrir la page "Téléchargements" dans un nouvel onglet	Ctrl+J
+Ouvrir le gestionnaire de tâches Chrome	Maj+Échap
+Placer le focus sur le premier élément de la barre d'outils Chrome	Maj+Alt+T
+Déplacer le focus vers l'avant entre la barre d'adresse, la barre de favoris (si elle est affichée) et le contenu de la page	F6
+Déplacer le focus vers l'arrière entre la barre d'adresse, la barre de favoris (si elle est affichée) et le contenu de la page	Maj+F6
+Ouvrir la Barre de recherche pour lancer une recherche dans la page active	Ctrl+F ou F3
+Accéder à la correspondance suivante du terme saisi dans la Barre de recherche	Ctrl+G
+Accéder à la correspondance précédente du terme saisi dans la Barre de recherche	Ctrl+Maj+G
+Ouvrir les outils pour les développeurs	Ctrl+Maj+J ou F12
+Ouvrir les options de la boîte de dialogue "Effacer les données de navigation"	Ctrl+Maj+Suppr
+Ouvrir le centre d'aide dans un nouvel onglet	F1
+Passer à un autre utilisateur ou passer en mode navigation privée	Ctrl+Maj+M
+Accéder au formulaire pour envoyer un commentaire	Ctrl+Maj+I
+Raccourcis de la barre d'adresse (Windows, Linux)
+Action	Raccourci
+Lancer une recherche à l'aide du moteur de recherche par défaut	Saisissez un terme de recherche et appuyez sur Entrée.
+Lancer une recherche à l'aide d'un autre moteur de recherche	Saisissez le nom du moteur de recherche et appuyez sur la touche Tabulation.
+Ajouter www. et .com au nom d'un site, puis l'ouvrir dans l'onglet actif	Saisissez le nom du site et appuyez sur Ctrl+Entrée.
+Ajouter www. et .com au nom d'un site, puis l'ouvrir dans un nouvel onglet	Saisissez le nom du site et appuyez sur Alt+Entrée.
+Accéder à la barre d'adresse	Ctrl+L ou Alt+D ou F6
+Lancer une recherche dans la page	Ctrl+K ou Ctrl+E
+Raccourcis de pages Web (Windows, Linux)
+Action	Raccourci
+Ouvrir la boîte de dialogue "Imprimer" pour la page active	Ctrl+P
+Ouvrir la boîte de dialogue "Enregistrer" pour la page active	Ctrl+S
+Actualiser la page active	F5 ou Ctrl+R
+Actualiser la page active sans tenir compte du contenu mis en cache	Maj+F5 ou Ctrl+Maj+R
+Arrêter le chargement de la page	Échap
+Parcourir les liens vers l'avant	Tabulation
+Parcourir les liens vers l'arrière	Maj+Tabulation
+Ouvrir un fichier de votre ordinateur dans Chrome	Appuyez sur Ctrl+o et sélectionnez un fichier.
+Afficher le code source HTML non modifiable de la page active	Ctrl+U
+Enregistrer la page active dans les favoris	Ctrl+D
+Enregistrer tous les onglets ouverts dans un nouveau dossier de favoris	Ctrl+Maj+D
+Activer ou désactiver le mode plein écran	F11
+Agrandir tous les éléments de la page	Ctrl et +
+Réduire tous les éléments de la page	Ctrl et -
+Rétablir tous les éléments de la page à leur taille normale	Ctrl+0
+Faire défiler une page Web vers le bas, écran par écran	Espace ou Page suivante
+Faire défiler une page Web vers le haut, écran par écran	Maj+Espace ou Page précédente
+Accéder au haut de la page	Début
+Accéder au bas de la page	Fin
+Faire défiler la page horizontalement	Appuyez sur Maj et faites défiler la page à l'aide de la molette de votre souris.
+Placer le curseur avant le mot précédent dans une zone de texte	Ctrl+Flèche gauche
+Placer le curseur après le mot suivant dans une zone de texte	Ctrl+Flèche droite
+Supprimer le mot précédent dans une zone de texte	Ctrl+Retour arrière
+Placer le focus sur une notification	Alt+N
+Autoriser dans une notification	Alt+Maj+A
+Refuser dans une notification	Alt+Maj+D
+Ouvrir la page d'accueil dans l'onglet actif	Alt+Début
+Raccourcis liés à la souris (Windows, Linux)
+Action	Raccourci
+Ouvrir un lien dans l'onglet actif (uniquement avec la souris)	Faites glisser le lien vers un onglet.
+Ouvrir un lien dans un nouvel onglet en arrière-plan	Appuyez sur Ctrl et cliquez sur le lien.
+Ouvrir un lien, puis y accéder	Appuyez sur Ctrl+Maj et cliquez sur le lien.
+Ouvrir un lien, puis y accéder (uniquement avec la souris)	Faites glisser le lien vers une zone vide de la barre d'onglets.
+Ouvrir un lien dans une nouvelle fenêtre	Appuyez sur Maj et cliquez sur le lien.
+Ouvrir un onglet dans une nouvelle fenêtre (uniquement avec la souris)	Faites glisser l'onglet en dehors de la barre d'onglets.
+Déplacer un onglet dans la fenêtre active (uniquement avec la souris)	Faites glisser l'onglet dans une fenêtre existante.
+Replacer l'onglet à sa position initiale	Appuyez sur Échap tout en faisant glisser l'onglet.
+Enregistrer la page active dans les favoris	Faites glisser l'adresse Web dans la barre de favoris.
+Télécharger la cible du lien	Appuyez sur Alt et cliquez sur le lien.
+Afficher l'historique de navigation	Faites un clic droit sur Retour Précédent ou Suivant Suiv., ou appuyez de manière prolongée sur Retour Précédent ou Suivant. Suiv.
+Agrandir ou réduire la fenêtre	Double-cliquez sur une zone vide de la barre d'onglets.
+Agrandir tous les éléments de la page	Appuyez sur Ctrl et faites rouler la molette de la souris vers le haut.
+Réduire tous les éléments de la page	Appuyez sur Ctrl et faites rouler la molette de la souris vers le bas.
+Voir aussi : comment exporter ses favoris Chrome vers un fichier HTML
+
+Raccourcis-clavier Chrome sous Mac
+Raccourcis liés aux onglets et aux fenêtres sur Mac
+Action	Raccourci
+Ouvrir une nouvelle fenêtre	⌘+N
+Ouvrir une nouvelle fenêtre en mode navigation privée	⌘+Maj+N
+Ouvrir un nouvel onglet, puis y accéder	⌘+T
+Rouvrir le dernier onglet fermé, puis y accéder	⌘+Maj+T
+Accéder à l'onglet ouvert suivant	⌘+Option+Flèche droite
+Accéder à l'onglet ouvert précédent	⌘+Option+Flèche gauche
+Accéder à un onglet spécifique	⌘+1 jusqu'à ⌘+8
+Accéder au dernier onglet	⌘+9
+Ouvrir la page précédente de l'historique de navigation correspondant à l'onglet	Suppr ou ⌘+[ ou ⌘+Flèche gauche
+Ouvrir la page suivante de l'historique de navigation correspondant à l'onglet	Maj+Suppr ou ⌘+] ou ⌘+Flèche droite
+Fermer l'onglet ou la fenêtre pop-up actifs	⌘+W
+Fermer la fenêtre active	⌘+Maj+W
+Réduire la fenêtre	⌘+M
+Masquer Google Chrome	⌘+H
+Quitter Google Chrome	⌘+Q
+Raccourcis liés aux fonctionnalités de Google Chrome sur Mac
+Action	Raccourci
+Afficher ou masquer la barre de favoris	⌘+Maj+B
+Ouvrir le gestionnaire de favoris	⌘+Option+B
+Ouvrir la page "Paramètres" dans un nouvel onglet	⌘+,
+Ouvrir la page "Historique" dans un nouvel onglet	⌘+Y
+Ouvrir la page "Téléchargements" dans un nouvel onglet	⌘+Maj+J
+Ouvrir la Barre de recherche pour lancer une recherche dans la page active	⌘+F
+Accéder à la correspondance suivante du terme saisi dans la Barre de recherche	⌘+G
+Accéder à la correspondance précédente du terme saisi dans la Barre de recherche	⌘+Maj+G
+Rechercher du texte sélectionné lorsque la Barre de recherche est active	⌘+E
+Accéder à la sélection	⌘+J
+Ouvrir les outils pour les développeurs	⌘+Option+I
+Ouvrir les options de la boîte de dialogue "Effacer les données de navigation"	⌘+Maj+Suppr
+Se connecter avec un autre compte ou passer en mode navigation privée	⌘+Maj+M
+Raccourcis de la barre d'adresse sur Mac
+Action	Raccourci
+Lancer une recherche à l'aide du moteur de recherche par défaut	Saisissez un terme de recherche et appuyez sur Entrée.
+Lancer une recherche à l'aide d'un autre moteur de recherche	Saisissez le nom du moteur de recherche et appuyez sur la touche Tabulation.
+Ajouter www. et .com au nom d'un site, puis l'ouvrir dans l'onglet actif	Saisissez le nom du site et appuyez sur Ctrl+Entrée.
+Ajouter www. et .com au nom d'un site, puis l'ouvrir dans un nouvel onglet	Saisissez le nom du site et appuyez sur Ctrl+Maj+Entrée.
+Ouvrir le site Web dans un nouvel onglet en arrière-plan	Saisissez l'adresse du site Web et appuyez sur ⌘+Entrée.
+Accéder à la barre d'adresse	⌘+L
+Raccourcis de pages Web sur Mac
+Action	Raccourci
+Ouvrir la boîte de dialogue "Imprimer" pour la page active	⌘+P
+Ouvrir la boîte de dialogue "Enregistrer" pour la page active	⌘+S
+Ouvrir la boîte de dialogue "Configurer la page"	⌘+Option+P
+Envoyer la page active par e-mail	⌘+Maj+I
+Actualiser la page active	⌘+R
+Actualiser la page active, sans tenir compte du contenu mis en cache	⌘+Maj+R
+Arrêter le chargement de la page	Échap
+Parcourir les liens vers l'avant	Tabulation
+Parcourir les liens vers l'arrière	Maj+Tabulation
+Ouvrir un fichier de votre ordinateur dans Google Chrome	Appuyez sur ⌘+o et sélectionnez un fichier.
+Afficher le code source HTML non modifiable de la page active	⌘+Option+U
+Ouvrir la Console JavaScript	⌘+Option+J
+Enregistrer la page active dans les favoris	⌘+D
+Enregistrer tous les onglets ouverts dans un nouveau dossier de favoris	⌘+Maj+D
+Activer ou désactiver le mode plein écran	⌘+Ctrl+F
+Agrandir tous les éléments de la page	⌘ et +
+Réduire tous les éléments de la page	⌘ et -
+Rétablir tous les éléments de la page à leur taille normale	⌘+0
+Faire défiler une page Web vers le bas, écran par écran	Espace
+Faire défiler une page Web vers le haut, écran par écran	Maj+Espace
+Rechercher sur le Web	⌘+Option+F
+Placer le curseur avant le mot précédent dans une zone de texte	Option+Flèche gauche
+Placer le curseur après le mot suivant dans une zone de texte	Option+Flèche droite
+Supprimer le mot précédent dans une zone de texte	Option+Retour arrière
+Ouvrir la page d'accueil dans l'onglet actif	⌘+Maj+H
+Raccourcis liés à la souris sur Mac
+Action	Raccourci
+Ouvrir un lien dans l'onglet actif (uniquement avec la souris)	Faites glisser le lien vers un onglet.
+Ouvrir un lien dans un nouvel onglet en arrière-plan	Appuyez sur ⌘ et cliquez sur le lien.
+Ouvrir un lien, puis y accéder	Appuyez sur ⌘+Maj et cliquez sur le lien.
+Ouvrir un lien, puis y accéder (uniquement avec la souris)	Faites glisser le lien vers une zone vide de la barre d'onglets.
+Ouvrir un lien dans une nouvelle fenêtre	Appuyez sur Maj et cliquez sur le lien.
+Ouvrir un onglet dans une nouvelle fenêtre (uniquement avec la souris)	Faites glisser l'onglet en dehors de la barre d'onglets.
+Déplacer un onglet dans la fenêtre active (uniquement avec la souris)	Faites glisser l'onglet dans une fenêtre existante.
+Replacer l'onglet à sa position initiale	Appuyez sur Échap tout en faisant glisser l'onglet.
+Enregistrer la page active dans les favoris	Faites glisser l'adresse Web dans la barre de favoris.
+Télécharger la cible du lien	Appuyez sur Option et cliquez sur le lien.
+Afficher l'historique de navigation	Faites un clic droit sur Retour Précédent ou Suivant Suiv., ou appuyez de manière prolongée sur Retour Précédent ou Suivant. Suiv.
+Agrandir la fenêtre à sa hauteur maximale	Double-cliquez sur une zone vide de la barre d'onglets.
+Agrandir tous les éléments de la page	Appuyez sur Ctrl et faites rouler la molette de la souris vers le haut.
+Réduire tous les éléments de la page	Appuyez sur Ctrl et faites rouler la molette de la souris vers le bas.
